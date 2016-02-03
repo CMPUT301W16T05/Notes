@@ -14,4 +14,22 @@ use case is example of someone using the app fulfilling the requirement
 ex. app allows uploading photos:
     go through the steps a user takes to upload the photo
 
+write test cases based on idea of what needs to be done
+
+interface mockup:
+    pictures of the views
+    use drawing program
+    every important screen that user will encounter w/ description
+
+storyboard:
+    transitions between views
+    single image
+
+glossary
+    license
+    doc all the sources
+    use libraries :)
+
+hardest part is intent testing
+find good practices for android
 
