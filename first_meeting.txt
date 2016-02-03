@@ -1,0 +1,17 @@
+Gave names + ccids
+
+Set up wiki
+Make tests
+
+most of the marks are from docs, reqs, wiki
+    these are usually 20% of the work
+    80% is the app working
+
+wiki requirements page for use cases
+
+use case is example of someone using the app fulfilling the requirement
+
+ex. app allows uploading photos:
+    go through the steps a user takes to upload the photo
+
+
